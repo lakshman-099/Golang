@@ -1,6 +1,6 @@
 /*
-   In Go, "&" is used to create a pointer to a variable,
-   and "*" is used to dereference a pointer.
+   In Go, "&" is used to point a memory address of a variable,
+   and "*" is used to access the data at that memory address.
 */
 
 package main
