@@ -1,6 +1,7 @@
 # Learn Go
 
 Welcome to the Learn Go repository! This repository is dedicated to helping you learn the Go programming language. Inside this repository, you will find code examples that will help you gain a better understanding of Go programming.
+In this repo I am using go version go1.20.4.
 
 ## Topics Covered
 
@@ -17,6 +18,8 @@ Welcome to the Learn Go repository! This repository is dedicated to helping you 
 - **Structs**: Explains the concept of structs in Go with simple examples. Also discusses how to define methods for structs.
 
 - **Types**: Provides explanations and examples for various types like arrays, slices, structs, maps, and pointers. Includes common operations on these types.
+
+- **Files**: basic file operations in Go using the `os` package. It includes functions for writing content to a file (`writeToFile`) and reading content from a file (`readFromFile`). These examples demonstrate how to create, open, write, and read files using Go's file handling capabilities
 
 ## Usage
 
@@ -38,5 +41,5 @@ If you are new to Go, follow these steps to get started:
 2. Clone this repository to your local machine using the following command:
 
     ```shell
-    git clone https://github.com/lakshman-099/Golang.git
+    git clone https://github.com/lakshmanarao3/Learn-Golang.git
     ```
